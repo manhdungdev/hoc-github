@@ -2,6 +2,7 @@
 ##Bai 2
 ##Day la nhanh login nhe
 #Tiep theo nhe
+##Day la trang sign up nhe
 - Day la gia tri 1
 - Day la gia tri 
 [Day la the a](google.com
