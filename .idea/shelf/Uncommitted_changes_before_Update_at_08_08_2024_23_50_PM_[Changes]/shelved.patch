@@ -1,0 +1,18 @@
+Index: index.html
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><!DOCTYPE html>\r\n<html lang=\"en\">\r\n<head>\r\n    <meta charset=\"UTF-8\">\r\n    <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\r\n    <title>Document</title>\r\n</head>\r\n<body>\r\n    Main 1\r\n    Main 2\r\n    Main 3\r\n    <h1>Hoang Manh Dung</h1>\r\n    Test update 1\r\n\r\n    <p>Test comman ammend</p>\r\n</body>\r\n</html>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/index.html b/index.html
+--- a/index.html	(revision d7b1526b87656e64170492f141af1e5329ada9da)
++++ b/index.html	(date 1723135827645)
+@@ -8,7 +8,6 @@
+ <body>
+     Main 1
+     Main 2
+-    Main 3
+     <h1>Hoang Manh Dung</h1>
+     Test update 1
+ 
